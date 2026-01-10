@@ -17,3 +17,4 @@
 - CONTRIBUTING.md
 - VERSION
 - Makefile
+- LICENSE.md
