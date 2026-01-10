@@ -1,0 +1,11 @@
+// settings.json（VS Code 用户设置）
+{
+  // 2. 把默认 Python 内核指向本机唯一的那个
+  "jupyter.kernels.defaults": {"python": "python3"},
+
+  // 1. 禁止 Jupyter 每次运行单元格时弹窗询问重启内核
+  "jupyter.askForKernelRestart": false,
+
+  // 3. 打开 .ipynb 时，把工作区根目录当作 notebook 的 cwd
+  "jupyter.notebookFileRoot": "${workspaceFolder}"
+}

@@ -1,0 +1,21 @@
+
+
+
+Config dir: /<home/user>/.jupyter
+Config dir: /<home/user>/anaconda3/envs/fundnew/etc/jupyter
+    jupyter_lsp [32menabled[0m
+    - Validating jupyter_lsp...
+      jupyter_lsp 2.2.6 [32mOK[0m
+    jupyter_server_terminals [32menabled[0m
+    - Validating jupyter_server_terminals...
+      jupyter_server_terminals 0.5.3 [32mOK[0m
+    jupyterlab [32menabled[0m
+    - Validating jupyterlab...
+      jupyterlab 4.4.5 [32mOK[0m
+    notebook [32menabled[0m
+    - Validating notebook...
+      notebook 7.4.5 [32mOK[0m
+    notebook_shim [32menabled[0m
+    - Validating notebook_shim...
+      notebook_shim  [32mOK[0m
+Config dir: /usr/local/etc/jupyter

@@ -1,0 +1,4 @@
+@echo off
+echo Starting EdgeDriver...
+start "" "C:\edgedriver_win64\msedgedriver.exe" --port=<host_pc_ip_address> --verbose --allowed-ips=<host_pc_ip_address> --allowed-origins=*
+echo EdgeDriver has started.

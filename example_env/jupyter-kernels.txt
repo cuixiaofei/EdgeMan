@@ -1,0 +1,2 @@
+Available kernels:
+  python3    /path/to/python3
